@@ -76,3 +76,5 @@ def delete(request, pk):
     return redirect('/')
 
 #do this on view
+def new_view():
+    pass
