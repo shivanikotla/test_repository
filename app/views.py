@@ -75,3 +75,4 @@ def delete(request, pk):
     messages.error(request, 'User deleted')
     return redirect('/')
 
+#do this on view
